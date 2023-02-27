@@ -1,0 +1,31 @@
+.items_list{
+    display: inline-block;
+    margin-top:0px;
+    justify-content: space-around;
+    padding: 24px;
+}
+.items{
+    margin-top: -30px;
+    background-color: rgb(245, 232, 232);
+}
+.image img{
+   height: 200px;
+   width: 330px;
+}
+.b2{
+    height: 30px;
+    width: 130px;
+    padding: 5px;
+    background-color: teal;
+    color: black;
+    border-radius: 4px;
+    border: 3px solid black;
+}
+.b2:hover{
+    text-decoration: underline;
+    color: white;
+}
+h1{
+    padding-left: 50px;
+    text-decoration: underline;
+}
